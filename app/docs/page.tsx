@@ -61,7 +61,7 @@ export default function AsyncExample() {
       options={options}
       value={selected}
       onChange={setSelected}
-      placeholder="Type to search...."
+      placeholder="Type to search......"
     />
   )
 }`
